@@ -10,6 +10,8 @@ To use the Global Weather App, simply:
 2. View current weather conditions and forecasts for the selected location
 3. Explore detailed forecasts for the next hours or days
 
+![Screenshot 2025-01-29 at 00 32 55](https://github.com/user-attachments/assets/aeeb45a9-7b8a-41bf-9424-7f92e4822eb1)
+
 ## Running locally
 
 In order to run this project locally you must first have the following:
